@@ -1,0 +1,15 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-size: 40px;
+  font-family: 'Roboto';
+  color: #6d396b;
+}
+.desc {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #555555;
+}
